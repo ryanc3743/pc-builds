@@ -1,14 +1,25 @@
-What was the objective?
-What hardware was used?
-What did I do?
+CPU: AMD Ryzen 7 7700X 8-Core, 16 thread
+Motherboard: MSI PRO B650-S Wifi ProSeries
+RAM:G.SKILL Flare X5 Series DDR5 RAM 32GB
+GPU: Zotac Gaming GeForce RTX 4070 Super Twin Edge OC 
+Storage: KingSpec XG7000 2TB NVMe SSD 
+PSU: GAMEAX Rampage Series 1050W 
+Case: GAMDIAS ATX Mid Tower 
+CPU Cooler: Thermalrihght Assassign X120 Refined SE ARGB
+OS: Windows 11
+Approximate build date: April 2024
+Approximate cost: $1500
+
+This build was to centralize my digital infrastructure, such as files, gaming, media play, and lab experimentation. 
+I researched extensively with YouTube videos, reddit posts, blogs, and window shopping to finalize the hardware components I wanted to use. I already had a USB to boot the OS onto the system once it was online.
 
 ## System Validation
 After assembly, the system was validated by checking:
 - Successful POST
-CPU and RAM detection
-Storage detection
-GPU detection
-Operating system boot
-Network connectivity
-Device/driver status
-System stability under use
+- CPU and RAM detection
+- Storage detection
+- GPU detection
+- Operating system boot
+- Network connectivity
+- Device/driver status
+- System stability under use
