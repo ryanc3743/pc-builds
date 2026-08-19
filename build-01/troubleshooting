@@ -1,1 +1,5 @@
--
+## Troubleshooting & Validation
+
+No significant hardware failures occured during this build
+The troubleshooting process primarily consisted of validating component detection, POST behavior, BIOS configuration, 
+operating systme installation, drivers, and network connectivity.
