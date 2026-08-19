@@ -1,1 +1,14 @@
--
+What was the objective?
+What hardware was used?
+What did I do?
+
+## System Validation
+After assembly, the system was validated by checking:
+- Successful POST
+CPU and RAM detection
+Storage detection
+GPU detection
+Operating system boot
+Network connectivity
+Device/driver status
+System stability under use
